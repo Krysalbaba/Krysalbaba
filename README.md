@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krysalbaba
-- 👀 I’m interested in Java，redis
+- 👀 I’m interested in Java and redis
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
